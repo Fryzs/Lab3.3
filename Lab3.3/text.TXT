@@ -1,0 +1,1 @@
+formatting text that consists of sentences separated by periods.format according to the following rules: there must be a space after each period and comma,there must not be a space before a comma ,the first word begins with a capital letter.
